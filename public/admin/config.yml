@@ -3,8 +3,8 @@ backend:
   branch: master # Branch to update (optional; defaults to master)
 
 # These lines should *not* be indented
-media_folder: "public/images" 
-public_folder: "/images" 
+media_folder: "public/img" 
+public_folder: "/img" 
 
 collections:
   - name: "posts" # Used in routes, e.g., /admin/collections/blog
